@@ -120,11 +120,17 @@ We will use this model as a baseline model, and we plan to further enhance this 
 # References –
 
 [1] W. H. Organization, "Standardization of interpretation of chest radiographs for the diagnosis of pneumonia in children", 2001.
+
 [2] M. I. Neuman et al., "Variability in the interpretation of chest radiographs for the diagnosis of pneumonia in children", Journal of hospital medicine, vol. 7, no. 4, pp. 294-298, 2012.
+
 [3] Stephen, O., Sain, M., Maduh, U. J., & Jeong, D.-U. (2019). An efficient deep learning approach to pneumonia classification in healthcare. Journal of Healthcare Engineering, 2019, 4180949.
+
 [4] Narayana Darapaneni, Ashish Ranjan, Dany Bright “Pneumonia Detection in Chest X-Rays using Neural Networks”.
+
 [5] M. F. Hashmi, S. Katiyar, A. G. Keskar, N. D. Bokde, and Z. W. Geem, “Efficient pneumonia detection in chest X-ray images using deep transfer learning,” Diagnostics (Basel), vol. 10, no. 6, p. 417, 2020
+
 [6] D. Kermany, K. Zhang and M. Goldbaum, "Large Dataset of Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images", Mendeley, 2021. [Online] https://data.mendeley.com/datasets/rscbjbr9sj/3. [Accessed: 01- May- 2021].
+
 [7] https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 
